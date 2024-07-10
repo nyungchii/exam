@@ -29,8 +29,8 @@
     </thead>
     <tbody>
         <?php
-        $name = "นายทดสอบ";
-        $surname = "ระบบ";
+        $name = "อชิรวัตติ์";
+        $surname = "ศรีรัตนาม";
         $room = "6/10";
 
         for ($i = 1; $i <= 10; $i++) {
